@@ -1,0 +1,29 @@
+@import url("./fishes.css");
+@import url("./locations.css");
+@import url("./quotes.css");
+
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.25rem;
+}
+
+img {
+    max-height: 7rem;
+}
+
+.bodyHeader {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+}
+
+.flex-container-left {
+    flex: 3;
+}
+
+.tips {
+    flex: 1;
+}

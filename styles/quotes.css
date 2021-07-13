@@ -1,0 +1,10 @@
+.quotes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.quote {
+    margin: 0.5rem 1rem;
+    flex-basis: 25%;
+}
